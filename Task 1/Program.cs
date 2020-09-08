@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Runtime.InteropServices;
 using System.Threading.Channels;
 
-namespace Task_1
+namespace CustomerIDGenerator
 {
     class Program
     {
